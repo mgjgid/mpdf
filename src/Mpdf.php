@@ -1597,7 +1597,6 @@ class Mpdf implements \Psr\Log\LoggerAwareInterface
 			}
 		}
 
-		return $this;
 	}
 
 	private function initConfig(array $config)
